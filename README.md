@@ -42,6 +42,12 @@ Xcode stands as Apple's premier Integrated Development Environment (IDE) tailore
 
 ### Clone the Repository
 
-```bash
+
 git clone https://github.com/fairytalesbrand/e-commerce-mobileapp-xcode.git
 open the Xcode project
+
+### Credentials
+
+<p align="center">
+  <img src="Meta iOS Developer 5KZQAEKPPVLX.jpg" alt="iOS Developer Logo" width="825">
+</p>
