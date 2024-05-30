@@ -49,5 +49,5 @@ open the Xcode project
 ### Credentials
 
 <p align="center">
-  <img src="Meta iOS Developer 5KZQAEKPPVLX.jpg" alt="iOS Developer Logo" width="825">
+  <img src=" Meta iOS Developer Specialization 3PCCFLZ6BZHL.jpg" alt="iOS Developer Logo" width="825">
 </p>
